@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Project 
+# Getting and Cleaning Data Project JHU Coursera
 
 # Load Packages and get the Data
 packages <- c("data.table", "reshape2")
