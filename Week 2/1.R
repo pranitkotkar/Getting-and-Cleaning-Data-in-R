@@ -1,3 +1,5 @@
+#This is an R program for extracting date when the repository called jtleek/datasharing was created in github.
+
 #install.packages("jsonlite")
 library(jsonlite)
 #install.packages("httpuv")
